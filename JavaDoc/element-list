@@ -1,0 +1,8 @@
+com.ipiecoles.eval_batch
+com.ipiecoles.eval_batch.csvImport
+com.ipiecoles.eval_batch.dbExport
+com.ipiecoles.eval_batch.dto
+com.ipiecoles.eval_batch.exception
+com.ipiecoles.eval_batch.model
+com.ipiecoles.eval_batch.repository
+com.ipiecoles.eval_batch.utils
